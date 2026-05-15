@@ -11,7 +11,7 @@ The app helps analyze sales trends, predict future demand, and generate inventor
 |---|---|
 | 📂 Upload Data | Upload Walmart sales CSV files with session-based caching |
 | 📊 EDA Dashboard | Interactive sales analysis, trends, and correlation heatmaps |
-| 🔮 Forecasting | Predict sales for 1–26 weeks using ML models |
+| 🔮 Forecasting | Predict sales for 1–12 weeks using ML models |
 | 📦 Inventory Planning | Calculate safety stock, reorder points, and inventory requirements |
 
 ---
