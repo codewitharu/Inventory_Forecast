@@ -34,7 +34,7 @@ streamlit run app.py
 ## Folder Structure
 
 ```
-walmart_forecast_app/
+Inventory_Forecast/
 ├── app.py
 ├── config.py
 ├── requirements.txt
